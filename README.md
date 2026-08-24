@@ -1,4 +1,4 @@
-# PLC Dynamic Ramp Generator for Steam Sterilizers
+# PLC Dynamic Ramp Generator for Steam Sterilizers or PID Manual Mode
 
 A professional, scan-time-independent dynamic setpoint generator (`FB_TempRamp_Gen`) for Siemens S7-1200 PLCs, developed in TIA Portal using SCL. 
 
